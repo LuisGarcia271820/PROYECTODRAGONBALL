@@ -1,0 +1,13 @@
+{
+	"anexsoft_course": {
+		"prefix": "anexsoft_course",
+		"scope": "html",
+		"body": [
+			"<div class=\"card\">",
+			"\t<h3>Hecho por Luis Garcia</h3>",
+			"\t<h3>Trabajando paginas web animadas</h3>",
+			"</div>"
+		],
+		"description": "For Loop"
+	},
+}
